@@ -37,12 +37,10 @@ PERFECT!
 6. Verification Setting
 
 == Changelog ==
+
 = 1.1 =
-* Carousel builds an animated images.
-* Social Media Icon with a blur animation (More special & light)
-* Add shortcode to display animated images on a post / page
-* Support the shortcode on the widget
-* Site Verification Setting (Yahoo,google)
+Carousel builds an animated images. Social Media Icon with a blur animation (More special & light).Add shortcode to display animated images on a post / page. Support the shortcode on the widget. Site Verification Setting (Yahoo,google)
+
 
 == CREDIT ==
 
