@@ -1,6 +1,6 @@
 === Hallo Destra ===
 Contributors: papadestra
-Donate link: http://www.papadestra.com/
+Donate link: http://papadestra.wordpress.com/
 Tags: Papa Destra, comments, Yahoo, RSS, seo, plugin, wordpress, blogger, buzz, del.icio.us, deviantart, Digg, digital tunes, email, Etsy, Facebook, flickr, follow, follow me, foursquare, friendfeed, hyves, icons, iTunes, lastfm, linkedin, links, live365, meetup, merchant circle, myspace, orkut, picasa, ping, plancast, Reddit, rss, skype, slideshare, social, social media, soundcloud, stumbleupon, subscribe, tumblr, tungle, twitter, vimeo, wordpress, yelp, youtube, 3d, autoplay, buttons, effects, free carousel, free flash, menu, mirror, navigation, rotate, scroll, scroller, tooltip
 Requires at least: 3.0.3
 Tested up to: 3.0.3
@@ -44,11 +44,10 @@ Carousel builds an animated images. Social Media Icon with a blur animation (Mor
 
 == CREDIT ==
 
-* This plugin was developed by Papa Destra - http://www.papadestra.com
-* Support Forum - http://www.papadestra.com/forum/
+* This plugin was developed by Papa Destra - http://papadestra.wordpress.com/
+
 
 == SUPPORT PROJECT ==
 
 * Writers Of Remarkably Distinctive Stories - http://www.enoughmoney.com.au/
-* Free Web Hosting - http://gudegyogya.com/
-* GoELbook - http://www.goelbook.com/
+* COCAKIJO - http://cocakijo.wordpress.com/
