@@ -44,7 +44,7 @@ Carousel builds an animated images. Social Media Icon with a blur animation (Mor
 
 == CREDIT ==
 
-* This plugin was developed by Papa Destra - http://papadestra.wordpress.com/
+* This plugin was developed by Papa Destra - http://papadestra.com/
 
 
 == SUPPORT PROJECT ==
