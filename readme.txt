@@ -17,7 +17,7 @@ shortcode = <code>[gambar_carousel]</code> display animated images on a post / p
 <b>For information and questions please: <br><br></b>
 Papa Destra - **[http://papadestra.com/](http://papadestra.com/)**<br><br>
 Facebook - **[http://id-id.facebook.com/people/Papa-Destra/1668887139](http://id-id.facebook.com/people/Papa-Destra/1668887139)**<br><br>
-SILMARWENY - **[http://silmarweny.com/](http://silmarweny.com/)**
+
 
 == Installation ==
 
